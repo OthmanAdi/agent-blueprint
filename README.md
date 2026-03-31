@@ -10,19 +10,13 @@ A skill for AI coding agents (Claude Code, Cursor, etc.) that guides you through
 - **Workflow builders** — planner + executor pipelines, HITL checkpoints, multi-agent orchestration
 - **Application embedders** — HTTP/SSE APIs, multi-user session management, React frontend integration
 
-## Quick Start
-
-Install as a Claude Code skill:
+## Install
 
 ```bash
-# Clone
-git clone https://github.com/OthmanAdi/agent-blueprint ~/.agents/skills/agent-blueprint
-
-# Or install via npx (if published to npm)
 npx skills add OthmanAdi/agent-blueprint -g
 ```
 
-Then in Claude Code, just describe what you want to build and the skill activates automatically.
+Works with Claude Code, Cursor, and any agent that supports the skills protocol. Then just describe what you want to build — the skill activates automatically.
 
 ## What's Inside
 
