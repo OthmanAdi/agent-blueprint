@@ -1,3 +1,7 @@
+<div align="center">
+<img src="media/banner.png" alt="agent-blueprint" width="100%">
+</div>
+
 # agent-blueprint
 
 > Build production-grade AI agents from scratch. Complete patterns, templates, and reference implementations for any language or framework.
